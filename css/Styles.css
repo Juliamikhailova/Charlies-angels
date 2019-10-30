@@ -1,0 +1,11 @@
+body{color:0; font-family:;margin: 0px;}
+
+img{display:flex; padding: 20px;margin: 0 auto;border-radius: 130px;}
+
+h1{font-size: 5em}
+
+h2{font-size: 2.5em}
+
+ol{list-style: armenian;;padding: 0;}
+
+div{ol{list-style: none; padding: 0; margin-bottom: 10%; font-size: 3em;display: flex;justify-content: space-evenly;}
